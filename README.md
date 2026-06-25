@@ -16,18 +16,19 @@ It includes:
 - Excel files
 - PDFs
 
----
-
 ## Repository Structure
-Aman_Anudip/
-│
-├── ClassWork/
-├── Lab/
-├── Presentation/
-├── Project/
-├── Sprint1 Project/
-└── README.md
 
+```text
+Aman_Anudip
+│
+├── 📁 ClassWork
+├── 📁 Lab
+├── 📁 Presentation and PDF
+├── 📁 Project
+├── 📁 Sprint1 Project
+└── 📄 README.md
+```
+---
 
 ## Technologies Used
 
@@ -36,3 +37,5 @@ Aman_Anudip/
 - Power BI
 - Python
 - Git & GitHub
+
+---
