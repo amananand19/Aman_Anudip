@@ -1,2 +1,0 @@
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-Project/Excel[[:space:]]Mini[[:space:]]Project.xlsx filter=lfs diff=lfs merge=lfs -text
